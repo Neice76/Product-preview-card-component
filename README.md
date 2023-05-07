@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Url](https://your-solution-url.com)
-- Live Site URL: [Live Site Url](https://your-live-site-url.com)
+- Solution URL: [Solution Url](https://www.frontendmentor.io/solutions/product-preview-card-component-y6-186oY_O)
+- Live Site URL: [Live Site Url](https://product-preview-card-component-sandy.vercel.app/)
 
 ## My process
 
